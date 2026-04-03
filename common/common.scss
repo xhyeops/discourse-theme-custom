@@ -1,3 +1,10 @@
 .sidebar-new-topic-button__wrapper {
   margin-top: 12px;
 }
+
+.sidebar-new-topic-button {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 0 0 12px 0;
+}
